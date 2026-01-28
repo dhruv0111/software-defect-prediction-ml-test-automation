@@ -4,7 +4,7 @@ This repository contains the implementation and experiments for the research pap
 
 **Software Defect Prediction Using Machine Learning to Support Test Automation**
 
-📄 Paper (Zenodo, DOI): https://doi.org/10.5281/zenodo.18405706
+📄 Paper (Zenodo, DOI): https://doi.org/10.5281/zenodo.18405705
 
 ## Contents
 - Dataset: NASA CM1 (PROMISE repository)
